@@ -23,16 +23,29 @@
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |     Ich habe einen Discord Bot erstellt                 |  Der Bot wird einfache Sachen gefragt (noch keine API)              |       Korrekte Antwort         |          |
+| 1               |     Ich habe einen Discord Bot erstellt                 |  Der Bot wird einfache Sachen gefragt (noch keine API)              |       Korrekte Antwort         |        Ja  |
 | 2               |    Einen Prototyp Code schreiben, der eine API benutzt               |       Ich gebe einen Input, z.b. "wie wird das Wetter in Zürich morgen?"         |       ich kriege dem entsprechende Antwort.         |          |
 |    3                  |        Await und Async funktioniert.        |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich mit APIs auseinander gesetzt. Zuerst habe ich einen Discord Bot ohne jegliche Commands erstellt und diesen einem von mir neu erstellten Discord Bot hinzugefügt. Ich wollte keine normalen Chat-Bot Befehle machen, weil ich fand es recht simpel und wollte meine Zeit den await, async und API Funktionen zuwenden.
+Zuerst wollte ich die Wetter API und async, await in einer Konsolen-App ausprobiere. Jedoch habe ich leider APIs noch nicht so ganz verstanden und möchte dann nächstes Mal versuchen, APIs richtig zu verstehen und zu verwenden. https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client Dafür habe ich mich in der offizielen Microsoft Dokumentation eingelesen, aber bei mir hat es noch nicht ganz "geklickt".  (108 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+- [ ] API von einer Wetterdatenbank holen, damit der Bot damit arbeiten kann
+- [ ] Await und async Funktionen in den Bot und die Konsolen-App coden
+- [ ] Konsolen-App "Prototyp" in Discord Bot importieren
+- [ ] (Ein Arbeitspaket zusätzlich, falls ich die API immernoch nicht ganz verstehe)
 
 
+      | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+      | --------------- | -------------------- | -------------- | -------------- | -------- |
+      |       1          |  API prompt                     |      API sucht nach Wetter in einem Ort und Zeit           |         Wetter Forecast wird gegeben        |           |
+      |       2         |   Await, async funktioniert
+      |      3           |  Code von Console-App zum Discord Bot importieren
+      | _______________                |                                                               
+     |
+  
 
 ## Reflexion
 
