@@ -31,9 +31,9 @@
 ✍️ Heute habe ich mich mit APIs auseinander gesetzt. Zuerst habe ich einen Discord Bot ohne jegliche Commands erstellt und diesen einem von mir neu erstellten Discord Bot hinzugefügt. Ich wollte keine normalen Chat-Bot Befehle machen, weil ich fand es recht simpel und wollte meine Zeit den await, async und API Funktionen zuwenden.
 Zuerst wollte ich die Wetter API und async, await in einer Konsolen-App ausprobiere. Jedoch habe ich leider APIs noch nicht so ganz verstanden und möchte dann nächstes Mal versuchen, APIs richtig zu verstehen und zu verwenden. https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client Dafür habe ich mich in der offizielen Microsoft Dokumentation eingelesen, aber bei mir hat es noch nicht ganz "geklickt".  (108 Wörter)
 
-
-- [ ] API von einer Wetterdatenbank holen, damit der Bot damit arbeiten kann
-- [ ] Await und async Funktionen in den Bot und die Konsolen-App coden
+## 08.03.2024
+- [x] API von einer Wetterdatenbank holen, damit der Bot damit arbeiten kann
+- [x] (nur in die Konsolenapp) Await und async Funktionen in den Bot und die Konsolen-App coden
 - [ ] Konsolen-App "Prototyp" in Discord Bot importieren
 - [ ] (Ein Arbeitspaket zusätzlich, falls ich die API immernoch nicht ganz verstehe)
 
@@ -46,6 +46,17 @@ Zuerst wollte ich die Wetter API und async, await in einer Konsolen-App ausprobi
       | _______________                |                                                               
      |
   
+
+Heute habe ich die API für die Konsolen-App gemacht und auch async/await benutzt. Mit dem verstehen der API hat mir die Microsoft Seite von letztem Mal geholfen, sowie auch die Seite von der API, die ich benutzt habe, ```
+openweathermap.org ```. Bei der API für die Wetterdaten musste ich entweder die geografischen Breiten- und Längengrade der Stadt benutzen, oder eine zusätzliche API (Geocoder) benutzen, die diese Grade mittels Namen oder Postleitzahl rausgefunden hat. Für nächstes Mal möchte ich die APIs in meinen Bot "einfügen" und auch meinem Bot commands geben. (90 Wörter)
+
+
+## 15.03.2024
+
+- [ ] API von Konsolen-App in Bot einfügen
+- [ ] API in Bot einfügen 2
+- [ ] Discord Bot Commands geben
+- [ ] Am Modul 187 bei (Herr Fähndrich) arbeiten
 
 ## Reflexion
 
