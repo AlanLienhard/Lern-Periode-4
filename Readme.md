@@ -56,7 +56,16 @@ openweathermap.org ```. Bei der API für die Wetterdaten musste ich entweder die
 - [ ] API von Konsolen-App in Bot einfügen
 - [ ] API in Bot einfügen 2
 - [ ] Discord Bot Commands geben
-- [ ] Am Modul 187 bei (Herr Fähndrich) arbeiten
+- [x] Am Modul 187 bei (Herr Fähndrich) arbeiten
+
+Ich habe heute ein wenig weiter am Bot gearbeitet, aber ich fand, dass die Wetter API der Grossteil der Arbeit war und ich musste "nur" noch alles portieren und Discord Commands machen. Deswegen hab ist das Projekt für mich abgeschlossen und ich habe heute noch an der Dokumentation der dieswöchigen Aufträge des Moduls M187 gearbeitet, bei dem ich noch nichht ganz fertig bin und noch ein paar Aufträge des Moduls M106 gemacht. Ich möchte nächste Woche die Zeit im Lern-Atelier nutzen, diese Module dort nachzuarbeiten (hauptsächlich die M187-Doku), anstatt das zuhause zu machen. Ich habe mich sonst auch beschlossen, nächste Woche mit dem The Odin Project fortzufahren. Ich weiss, Sie haben dagegen geraten, weil wir bald ein Modul darüber haben werden, aber ich dachte mir, es könnte nicht schaden, mehr über Programmieren zu wissen (134 Wörter).
+
+## 22.03.2024
+
+- [ ] An der M187 Dokumentation weiterarbeiten
+- [ ] Am Modul M106 weiterarbeiten
+- [ ] Am The Odin Project weiterarbeiten (Ziel: Eine "Class" abschliessen)
+- [ ] Am TOP weiterarbeiten (Ziel: Auch eine Class abschliessen, aber ich weiss nicht, wie lange und umfangreich eine ist)
 
 ## Reflexion
 
