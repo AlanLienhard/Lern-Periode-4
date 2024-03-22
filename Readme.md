@@ -37,14 +37,13 @@ Zuerst wollte ich die Wetter API und async, await in einer Konsolen-App ausprobi
 - [ ] Konsolen-App "Prototyp" in Discord Bot importieren
 - [ ] (Ein Arbeitspaket zusätzlich, falls ich die API immernoch nicht ganz verstehe)
 
-
-      | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-      | --------------- | -------------------- | -------------- | -------------- | -------- |
-      |       1          |  API prompt                     |      API sucht nach Wetter in einem Ort und Zeit           |         Wetter Forecast wird gegeben        |           |
-      |       2         |   Await, async funktioniert
-      |      3           |  Code von Console-App zum Discord Bot importieren
-      | _______________                |                                                               
-     |
+ | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+ |       1          |  API prompt                     |      API sucht nach Wetter in einem Ort und Zeit           |         Wetter Forecast wird gegeben        |           |
+|       2         |   Await, async funktioniert
+ |      3           |  Code von Console-App zum Discord Bot importieren
+ | _______________                |                                                               
+ |
   
 
 Heute habe ich die API für die Konsolen-App gemacht und auch async/await benutzt. Mit dem verstehen der API hat mir die Microsoft Seite von letztem Mal geholfen, sowie auch die Seite von der API, die ich benutzt habe, ```
