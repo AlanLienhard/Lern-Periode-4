@@ -64,8 +64,15 @@ Ich habe heute ein wenig weiter am Bot gearbeitet, aber ich fand, dass die Wette
 
 - [ ] An der M187 Dokumentation weiterarbeiten
 - [ ] Am Modul M106 weiterarbeiten
-- [ ] Am The Odin Project weiterarbeiten (Ziel: Eine "Class" abschliessen)
-- [ ] Am TOP weiterarbeiten (Ziel: Auch eine Class abschliessen, aber ich weiss nicht, wie lange und umfangreich eine ist)
+- [x] Am The Odin Project weiterarbeiten (Ziel: Eine "Class" abschliessen)
+- [x] Am TOP weiterarbeiten (Ziel: Auch eine Class abschliessen, aber ich weiss nicht, wie lange und umfangreich eine ist)
+
+      Ich habe heute nur am The Odin Project gearbeitet. Ich habe ca. 3,5 "Classes" gemacht, dafür habe ich vergessen, an den Modulen M187 und M106 zu arbeiten. Ich habe eine kleine Webpage in HTML geschrieben, die auch einen Link hat und so ziemlich alles zeigt, was ich heute gelernt habe.
+Beim nächsten Mal Lern-Atelier würde ich gerne versuchen, 3 Classes zu machen, etwa so viel wie heute. Die folgenden Classes im Project heissen Links& images (habe ich schon angefangen), Commit Messages und die drittnächste wäre ein Projekt. Entweder mache ich das Projekt, oder ich fange mit den CSS Foundations mit der Class "intro to CSS", an.
+
+
+## 05.04.2024
+
 
 ## Reflexion
 
