@@ -42,8 +42,7 @@ Zuerst wollte ich die Wetter API und async, await in einer Konsolen-App ausprobi
  |       1          |  API prompt                     |      API sucht nach Wetter in einem Ort und Zeit           |         Wetter Forecast wird gegeben        |           |
 |       2         |   Await, async funktioniert
  |      3           |  Code von Console-App zum Discord Bot importieren
- | _______________                |                                                               
- |
+
   
 
 Heute habe ich die API für die Konsolen-App gemacht und auch async/await benutzt. Mit dem verstehen der API hat mir die Microsoft Seite von letztem Mal geholfen, sowie auch die Seite von der API, die ich benutzt habe, ```
@@ -74,6 +73,13 @@ Beim nächsten Mal Lern-Atelier würde ich gerne versuchen, 3 Classes zu machen,
 
 - [ ] The Odin Project Links & images in HTML abschliessen und Bilder in meine kleine Website einfügen.
 - [ ] The Odin Project Commit Messages machen.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |  The Odin Project, Links & images abgeschlossen                    |  Code für Bild geschrieben              |          Bild wird auf der Seite angezeigt.      |          |
+| 2             |  The Odin Project, Commit Messages abgeschlossen                    |                |                |          |
+            
+
 
 ## Reflexion
 
