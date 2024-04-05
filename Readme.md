@@ -71,15 +71,16 @@ Beim nächsten Mal Lern-Atelier würde ich gerne versuchen, 3 Classes zu machen,
 
 ## 05.04.2024
 
-- [ ] The Odin Project Links & images in HTML abschliessen und Bilder in meine kleine Website einfügen.
-- [ ] The Odin Project Commit Messages machen.
+- [x] The Odin Project Links & images in HTML abschliessen und Bilder in meine kleine Website einfügen.
+- [x] The Odin Project Commit Messages machen.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |  The Odin Project, Links & images abgeschlossen                    |  Code für Bild geschrieben              |          Bild wird auf der Seite angezeigt.      |          |
+| 1               |  The Odin Project, Links & images abgeschlossen                    |  Code für Bild geschrieben              |          Bild wird auf der Seite angezeigt.      |    Ja      |
 | 2             |  The Odin Project, Commit Messages abgeschlossen                    |                |                |          |
             
-
+Ich habe den Rest der Class Links & Images abgeschlossen und habe das auch mit einem Bild auf meiner kleinen Website wiederlegt (auf index.html auf About klicken und dann landet man auf about.html und sieht das Bild). 
+Ich habe auch die nächste Class "Commit Messages" abgeschlossen, die einem Tipps gibt, wie und wann man auf Github Änderungen dokumentieren sollte. Ich habe auch schon ein wenig mit dem Thema CSS Foundations angefangen. (71 Wörter)
 
 ## Reflexion
 
