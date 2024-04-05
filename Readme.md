@@ -85,3 +85,8 @@ Ich habe auch die nächste Class "Commit Messages" abgeschlossen, die einem Tipp
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+Mein VBV für diese Lernperiode, sowie auch für die Letzte war es, mich weniger ablenken zu lassen (vor allem im PPL mit all den Leuten, die herumlaufen) und auch meine Arbeitspakete zeitlich genauer zu planen und auch die Arbeitspakete hier im Github genauer zu formulieren. Ich finde auch, ich habe mich da gut gesteigert und besser gearbeitet und geplant als in den vorherigen Lernperioden (meine zunehmende Erfahrung im Planen und Programmieren spielt auch eine grosse Rolle). Meine Planungen wurden genauer, jedoch liess ich mich dennoch zu viel für meinen Geschmack ablenken und möchte mich auch in der Ansicht für die nächste Lernperiode verbessern.
+Ich würde sagen, dass mein VBV weiterhin besteht, weil die vorhing genannten Aspekte so gut wie immer Verbesserungspotenzial haben.
+
+Als Projektvorschlag hab ich, dass ich weiter dem "The Odin Project" folge und dann wenigstens die Basics von CSS und JavaScript auch noch habe. Das wäre auch mein technischer VBV, meine Websiten mit anderen Sprachen zu "bestücken" nicht nur mit HTML.
